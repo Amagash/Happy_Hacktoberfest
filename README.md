@@ -2,6 +2,8 @@
 
 ![hacktoberfest image](images/hacktoberfest_jems.png)
 
+![](https://img.shields.io/github/license/Amagash/Happy_Hacktoberfest)
+
 ## Quick start
 Welcome to the Happy Hacktoberfest repository! 
 
