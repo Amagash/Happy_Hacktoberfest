@@ -7,7 +7,7 @@ Welcome to the Happy Hacktoberfest repository!
 
 To install the current release of Happy Hacktoberfest:
 ```
-> pip install katoun
+> pip install hacktoberfest_jems
 ```
 Now you can read a contributor's wish:
 ```
@@ -47,7 +47,5 @@ Congratulations! :tada: You’ve just submitted your first PR! Your PR will be r
 2. It's your first PR to this repository.
 3. You are using your own GitHub username and it's the same as the PR author.
 4. Into the contributors.json file, the message must be short and respect the code of conduct.
-
-
 
 Now that you know the basics, you can search for a project that you really like and start contributing.
