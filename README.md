@@ -1,6 +1,6 @@
 # Happy Hacktoberfest
 
-![hacktoberfest image](data/images/hacktoberfest_jems.png)
+![hacktoberfest image](images/hacktoberfest_jems.png)
 
 ## Quick start
 Welcome to the Happy Hacktoberfest repository! 
