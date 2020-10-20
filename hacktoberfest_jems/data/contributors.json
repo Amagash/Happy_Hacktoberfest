@@ -1,10 +1,14 @@
 [
-    {
-        "author":"Amagash", 
-        "wish":"a happy Hacktoberfest!"
-    },
-    {
-        "author":"Katoun", 
-        "wish":"to enjoy a puuurfect Catoberfest! MIAOU :3"
-    }
+   {
+      "author": "Amagash",
+      "wish": "a happy Hacktoberfest!"
+   },
+   {
+      "author": "Katoun",
+      "wish": "to enjoy a puuurfect Catoberfest! MIAOU :3"
+   },
+   {
+      "author": "zetadeceleste",
+      "wish": "to have a haunted (yet happy) Hacktoberfest! Boo!"
+   }
 ]
