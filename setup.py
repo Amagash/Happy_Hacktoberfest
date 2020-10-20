@@ -6,6 +6,7 @@ setup(
     version='1.0.0',
     packages=['hacktoberfest_jems'],
     description="An application to celebrate hacktoberfest!",
+    include_package_data=True,
     entry_points={
         'console_scripts': ['hacktoberfest_jems=hacktoberfest_jems.main:main']
     }
