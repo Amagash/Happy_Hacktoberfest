@@ -1,6 +1,6 @@
 # Happy Hacktoberfest!
 
-![hacktoberfest image](images/hacktoberfest_jems.png)
+![hacktoberfest image](images/hacktoberfest.png))
 
 ![](https://img.shields.io/github/license/Amagash/Happy_Hacktoberfest)
 
@@ -41,7 +41,7 @@ Would display: `John Doe wishes you a very happy Hacktoberfest!`
 3. Commit and push your modifications
 4. Create a PR
 
-Congratulations! :tada: You’ve just submitted your first PR! Your PR will be reviewed and merged if it's compliant with our [code of conduct](https://github.com/Amagash/Happy_Hacktoberfest/blob/main/.github/workflows/CODE_OF_CONDUCT.md)! 
+Congratulations! :tada: You’ve just submitted your first PR! Your PR will be reviewed and merged if it's compliant with our [code of conduct](https://github.com/Amagash/Happy_Hacktoberfest/blob/main/.github/workflows/CODE_OF_CONDUCT.md)!
 
 ### **Be careful, your PR must respect the following conditions:**
 
