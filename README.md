@@ -21,7 +21,7 @@ Now you can read a contributor's wish:
 This repository is here for you to experiment with Github and learn how to make your first Pull Request (PR).
 
 1. Fork this project and clone it
-2. In the file `hacktoberfest_jems/data/contributor.json`, add your username and a short message to celebrate Hacktoberfest.
+2. In the file `hacktoberfest_jems/data/contributors.json`, add your username and a short message to celebrate Hacktoberfest.
 ```
     {
         "author":"your-username", 
