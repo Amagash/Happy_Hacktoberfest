@@ -27,7 +27,7 @@ This repository is here for you to experiment with Github and learn how to make 
 
 1. Fork this project and clone it
 
-![git_1 image](images/git1.png)
+![git_1 image](images/git_1.png)
 
 2. In the file `hacktoberfest_jems/data/contributors.json`, add your Github username and a short message to celebrate Hacktoberfest.
 ```
