@@ -79,6 +79,10 @@ Your modifications will be reviewed by a project maintainer and will be merged i
 3. You are using your own GitHub username and it's the same as the PR author.
 4. Into the contributors.json file, the message must be short and respect the [code of conduct](https://github.com/Amagash/Happy_Hacktoberfest/blob/main/.github/workflows/CODE_OF_CONDUCT.md).
 
+If everything is ok, your PR will be merged.
+
+![merged image](images/merged.png)
+
 Congratulations! :tada: You’ve just submitted your first PR!
 
 Now that you know the basics, you can search for other projects to contribute to. 
