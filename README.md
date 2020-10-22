@@ -19,12 +19,16 @@ Now you can read a contributor's wish:
 ```
 To randomly pick a new wish, simply rerun the previous command.
 This is what you should see: 
+
 ![terminal image](images/terminal_1.png)
 
 ## Contribution
 This repository is here for you to experiment with Github and learn how to make your first Pull Request (PR).
 
 1. Fork this project and clone it
+
+![git_1 image](images/git1.png)
+
 2. In the file `hacktoberfest_jems/data/contributors.json`, add your Github username and a short message to celebrate Hacktoberfest.
 ```
     {
