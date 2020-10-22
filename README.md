@@ -5,9 +5,9 @@
 ![](https://img.shields.io/github/license/Amagash/Happy_Hacktoberfest)
 
 ## Quick start
-Welcome to the Happy Hacktoberfest repository! 
+Welcome to the Happy Hacktoberfest repository! The python package `hacktoberfest_jems` is a wishing box from all contributors.
 
-To install the current release of Happy Hacktoberfest:
+To install the current release of `hacktoberfest_jems`:
 ```
 > pip install hacktoberfest_jems
 ```
@@ -17,18 +17,22 @@ Now you can read a contributor's wish:
 
 # John Doe wishes you a very happy Hacktoberfest!
 ```
+To randomly pick a new wish, simply rerun the previous command.
+This is what you should see: 
+![terminal image](images/terminal_1.png)
+
 ## Contribution
 This repository is here for you to experiment with Github and learn how to make your first Pull Request (PR).
 
 1. Fork this project and clone it
-2. In the file `hacktoberfest_jems/data/contributors.json`, add your username and a short message to celebrate Hacktoberfest.
+2. In the file `hacktoberfest_jems/data/contributors.json`, add your Github username and a short message to celebrate Hacktoberfest.
 ```
     {
-        "author":"your-username", 
+        "author":"your-github-username", 
         "wish":"your_message"
     },
 ```
-Your message will be displayed as follows : `your-username wishes you your-message`
+Your message will be displayed as follows : `your-github-username wishes you your-message`
 For example : 
 ```
     {
