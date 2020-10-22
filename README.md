@@ -1,6 +1,6 @@
 # Happy Hacktoberfest!
 
-![hacktoberfest image](images/hacktoberfest.png))
+![hacktoberfest image](images/hacktoberfest.png)
 
 ![](https://img.shields.io/github/license/Amagash/Happy_Hacktoberfest)
 
