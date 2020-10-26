@@ -62,7 +62,7 @@ This step will send your modifications to the main branch of your forked reposit
 
 ![commit image](images/commit.png)
 
-4. Create a PR
+4. Create a PR. From your repository, click on the Pull requests tab and click on the button "New pull request". You should see this repository as `base: Amagash/Happy_Hacktoberfest` and your repository as `compare: your_username/Hacktoberfest`.
 
 ![pr2 image](images/pr2.png)
 
@@ -85,6 +85,6 @@ If everything is ok, your PR will be merged.
 
 Congratulations! :tada: You’ve just submitted your first PR!
 
-Now that you know the basics, you can search for other projects to contribute to. 
+Now that you know the basics, you can search for other projects to contribute to. You can start looking for other projects to contribute here => https://github.com/topics/hacktoberfest
 
 **Happy Hacktoberfest and Happy contributing!**
