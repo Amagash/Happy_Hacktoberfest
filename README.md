@@ -5,8 +5,17 @@
 ![](https://img.shields.io/github/license/Amagash/Happy_Hacktoberfest)
 
 ## Quick start
-Welcome to the Happy Hacktoberfest repository! The python package `hacktoberfest_jems` is a wishing box from all contributors.
+Welcome to the Happy Hacktoberfest repository!The python package `hacktoberfest_jems` is a wishing box from all contributors.
 
+### With Docker:
+- *pre-requisite*: You need to have docker installed. You can find the documentation 
+here https://docs.docker.com/install/
+- run the following command:
+```
+ sudo docker run amagash/dmichelle/amagash_hacktoberfest:latest
+```
+
+### With pip:
 To install the current release of `hacktoberfest_jems`:
 ```
 > pip install hacktoberfest_jems
